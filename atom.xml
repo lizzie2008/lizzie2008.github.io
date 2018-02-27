@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lancel0tの博客</title>
+  
+  <subtitle>记录学习的技能和遇到的问题</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lizzie2008.github.io/"/>
+  <updated>2018-02-26T03:38:44.091Z</updated>
+  <id>https://lizzie2008.github.io/</id>
+  
+  <author>
+    <name>Lancel0t</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lizzie2008.github.io/2018/02/26/hello-world3/"/>
+    <id>https://lizzie2008.github.io/2018/02/26/hello-world3/</id>
+    <published>2018-02-26T09:44:34.480Z</published>
+    <updated>2018-02-26T03:38:44.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lizzie2008.github.io/2018/02/26/hello-world2/"/>
+    <id>https://lizzie2008.github.io/2018/02/26/hello-world2/</id>
+    <published>2018-02-26T09:44:29.316Z</published>
+    <updated>2018-02-26T03:38:44.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lizzie2008.github.io/2018/02/26/hello-world1/"/>
+    <id>https://lizzie2008.github.io/2018/02/26/hello-world1/</id>
+    <published>2018-02-26T09:44:20.550Z</published>
+    <updated>2018-02-26T03:38:44.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lizzie2008.github.io/2018/02/26/hello-world/"/>
+    <id>https://lizzie2008.github.io/2018/02/26/hello-world/</id>
+    <published>2018-02-26T03:38:44.091Z</published>
+    <updated>2018-02-27T06:53:34.469Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="测试category" scheme="https://lizzie2008.github.io/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="https://lizzie2008.github.io/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="https://lizzie2008.github.io/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
+  
+</feed>
