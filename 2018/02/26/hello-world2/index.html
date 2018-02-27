@@ -419,7 +419,7 @@
       <div>
         <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
     <img id="wechat_subscriber_qcode" src="/uploads/wechat-qcode.jpg" alt="Lancel0t wechat" style="width: 200px; max-width: 100%;"/>
-    <div>subscribe to my blog by scanning my public wechat account</div>
+    <div>关注我的微信公众号</div>
 </div>
 
       </div>
@@ -428,7 +428,7 @@
     
       <div>
         <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-  <div>Donate comment here</div>
+  <div>打赏，是超越赞的一种表达。</div>
   <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
     <span>打赏</span>
   </button>
@@ -481,6 +481,21 @@
 
       
       
+        <div class="post-widgets">
+        
+
+        
+
+        
+          
+          <div id="needsharebutton-postbottom">
+            <span class="btn">
+              <i class="fa fa-share-alt" aria-hidden="true"></i>
+            </span>
+          </div>
+        
+        </div>
+      
       
 
       
@@ -517,6 +532,24 @@
 
 
     <div class="post-spread">
+      
+        <!-- JiaThis Button BEGIN -->
+    <div class="bshare-custom icon-medium-plus">
+        <div class="bsPromo bsPromo2"></div>
+        <a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+        <a title="分享到微信" class="bshare-weixin" href="javascript:void(0);"></a>
+        <a title="分享到QQ好友" class="bshare-qqim" href="javascript:void(0);"></a>
+        <a title="分享到QQ空间" class="bshare-qzone" href="javascript:void(0);"></a>
+        <a title="分享到网易微博" class="bshare-neteasemb" href="javascript:void(0);"></a>
+        <a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a>
+        <a title="分享到人人网" class="bshare-renren"></a>
+        <a title="分享到搜狐微博" class="bshare-sohuminiblog" href="javascript:void(0);"></a>
+        <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+        <span class="BSHARE_COUNT bshare-share-count" style="float: none;">57.6K</span>
+    </div>
+    <script type="text/javascript" charset="utf-8" src="https://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script>
+    <script type="text/javascript" charset="utf-8" src="https://static.bshare.cn/b/bshareC0.js"></script>
+<!-- JiaThis Button END -->
       
     </div>
   </div>
@@ -759,12 +792,6 @@
       </div>
     
 
-    
-      <div id="needsharebutton-float">
-        <span class="btn">
-          <i class="fa fa-share-alt" aria-hidden="true"></i>
-        </span>
-      </div>
     
 
   </div>
@@ -1047,18 +1074,18 @@
 
   <script>
     
+      pbOptions = {};
+      
+          pbOptions.iconStyle = "default";
+      
+          pbOptions.boxForm = "horizontal";
+      
+          pbOptions.position = "bottomCenter";
+      
+          pbOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      
+      new needShareButton('#needsharebutton-postbottom', pbOptions);
     
-      flOptions = {};
-      
-          flOptions.iconStyle = "default";
-      
-          flOptions.boxForm = "horizontal";
-      
-          flOptions.position = "middleRight";
-      
-          flOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
-      
-      new needShareButton('#needsharebutton-float', flOptions);
     
   </script>
 
