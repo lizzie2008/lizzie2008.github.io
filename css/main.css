@@ -1950,7 +1950,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #85ffa3;
+  background: #ff8a32;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3188,12 +3188,6 @@ hr {
   padding: 25px;
   -webkit-box-shadow: 0 0 14px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 14px rgba(202,203,204,0.5);
-}
-.posts-expand .post-title:hover {
-  border-left: #555 20px solid;
-  padding-left: 15px;
-  cursor: pointer;
-  transition: border-width 0.3s linear 0.1s, color 0.2s linear 0.3s;
 }
 .post-button {
   margin-top: 30px;
