@@ -1950,7 +1950,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff8a32;
+  background: #e82fff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3173,6 +3173,11 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.site-author-image {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
 }
 .footer-inner {
   text-align: center;
