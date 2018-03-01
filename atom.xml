@@ -5,9 +5,9 @@
   <subtitle>记录学习的技能和遇到的问题</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://lizzie2008.github.io/"/>
+  <link href="http://myblog.lancel0t.cn/"/>
   <updated>2018-02-28T10:55:42.000Z</updated>
-  <id>https://lizzie2008.github.io/</id>
+  <id>http://myblog.lancel0t.cn/</id>
   
   <author>
     <name>Lancel0t</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lizzie2008.github.io/2018/02/26/hello-world3/"/>
-    <id>https://lizzie2008.github.io/2018/02/26/hello-world3/</id>
+    <link href="http://myblog.lancel0t.cn/2018/02/26/hello-world3/"/>
+    <id>http://myblog.lancel0t.cn/2018/02/26/hello-world3/</id>
     <published>2018-02-26T09:44:34.480Z</published>
     <updated>2018-02-28T10:55:42.000Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lizzie2008.github.io/2018/02/26/hello-world2/"/>
-    <id>https://lizzie2008.github.io/2018/02/26/hello-world2/</id>
+    <link href="http://myblog.lancel0t.cn/2018/02/26/hello-world2/"/>
+    <id>http://myblog.lancel0t.cn/2018/02/26/hello-world2/</id>
     <published>2018-02-26T09:44:29.316Z</published>
     <updated>2018-02-26T03:38:44.091Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lizzie2008.github.io/2018/02/26/hello-world1/"/>
-    <id>https://lizzie2008.github.io/2018/02/26/hello-world1/</id>
+    <link href="http://myblog.lancel0t.cn/2018/02/26/hello-world1/"/>
+    <id>http://myblog.lancel0t.cn/2018/02/26/hello-world1/</id>
     <published>2018-02-26T09:44:20.550Z</published>
     <updated>2018-02-27T09:03:14.860Z</updated>
     
@@ -78,8 +78,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lizzie2008.github.io/2018/02/26/hello-world/"/>
-    <id>https://lizzie2008.github.io/2018/02/26/hello-world/</id>
+    <link href="http://myblog.lancel0t.cn/2018/02/26/hello-world/"/>
+    <id>http://myblog.lancel0t.cn/2018/02/26/hello-world/</id>
     <published>2018-02-26T03:38:44.091Z</published>
     <updated>2018-02-28T09:33:20.464Z</updated>
     
@@ -89,12 +89,12 @@
     
     </summary>
     
-      <category term="测试category" scheme="https://lizzie2008.github.io/categories/%E6%B5%8B%E8%AF%95category/"/>
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
     
     
-      <category term="测试tag1" scheme="https://lizzie2008.github.io/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
     
-      <category term="测试tag2" scheme="https://lizzie2008.github.io/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
     
   </entry>
   
