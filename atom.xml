@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myblog.lancel0t.cn/"/>
-  <updated>2018-03-01T08:51:30.098Z</updated>
+  <updated>2018-02-28T09:33:20.464Z</updated>
   <id>http://myblog.lancel0t.cn/</id>
   
   <author>
@@ -15,6 +15,138 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world8/"/>
+    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world8/</id>
+    <published>2018-03-01T08:58:09.542Z</published>
+    <updated>2018-02-28T09:33:20.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world7/"/>
+    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world7/</id>
+    <published>2018-03-01T08:58:08.268Z</published>
+    <updated>2018-02-28T09:33:20.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world6/"/>
+    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world6/</id>
+    <published>2018-03-01T08:58:07.598Z</published>
+    <updated>2018-02-28T09:33:20.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world5/"/>
+    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world5/</id>
+    <published>2018-03-01T08:58:07.348Z</published>
+    <updated>2018-02-28T09:33:20.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world4/"/>
+    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world4/</id>
+    <published>2018-03-01T08:58:06.870Z</published>
+    <updated>2018-02-28T09:33:20.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world9/"/>
+    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world9/</id>
+    <published>2018-03-01T08:58:06.144Z</published>
+    <updated>2018-02-28T09:33:20.464Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+    
+    
+      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+    
+      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
