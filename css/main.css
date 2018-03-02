@@ -1950,7 +1950,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #85ff1d;
+  background: #b3ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3214,4 +3214,11 @@ hr {
 }
 .post-button a:hover {
   color: #7784ba;
+}
+.post-spread {
+  margin-top: 10px;
+  height: auto;
+}
+.bdsharebuttonbox {
+  float: right;
 }
