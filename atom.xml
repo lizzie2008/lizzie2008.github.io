@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myblog.lancel0t.cn/"/>
-  <updated>2018-02-28T09:33:20.464Z</updated>
+  <updated>2018-03-05T10:26:34.710Z</updated>
   <id>http://myblog.lancel0t.cn/</id>
   
   <author>
@@ -17,204 +17,75 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world8/"/>
-    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world8/</id>
-    <published>2018-03-01T08:58:09.542Z</published>
-    <updated>2018-02-28T09:33:20.464Z</updated>
+    <title>算法题库丨RemoveDuplicates II</title>
+    <link href="http://myblog.lancel0t.cn/articles/29bb1a26-53ed-4856-b793-389da229c5e8/"/>
+    <id>http://myblog.lancel0t.cn/articles/29bb1a26-53ed-4856-b793-389da229c5e8/</id>
+    <published>2018-01-01T16:00:00.000Z</published>
+    <updated>2018-03-05T10:26:34.710Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Follow up for “&lt;a href=&quot;http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/&quot;&gt;Remove Duplicates&lt;/a&gt;“:&lt;br&gt;What if duplicates are allowed at most twice?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given sorted array nums = [1,1,1,2,2,3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Your function should return length = 5, with the first five elements of nums &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;being 1, 1, 2, 2 and 3. It doesn&amp;apos;t matter what you leave beyond the new length.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
     
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world7/"/>
-    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world7/</id>
-    <published>2018-03-01T08:58:08.268Z</published>
-    <updated>2018-02-28T09:33:20.464Z</updated>
+    <title>算法题库系列丨目录索引</title>
+    <link href="http://myblog.lancel0t.cn/articles/hello-world3/"/>
+    <id>http://myblog.lancel0t.cn/articles/hello-world3/</id>
+    <published>2017-12-31T16:00:00.000Z</published>
+    <updated>2018-03-05T10:29:10.954Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;
     
     </summary>
     
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
     
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world6/"/>
-    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world6/</id>
-    <published>2018-03-01T08:58:07.598Z</published>
-    <updated>2018-02-28T09:33:20.464Z</updated>
+    <title>算法题库丨RemoveDuplicates</title>
+    <link href="http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/"/>
+    <id>http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/</id>
+    <published>2017-12-31T16:00:00.000Z</published>
+    <updated>2018-03-05T10:26:08.998Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.&lt;br&gt;Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given nums = [1,1,2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Your function should return length = 2, with the first two elements of nums being &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1 and 2 respectively.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;It doesn&amp;apos;t matter what you leave beyond the new length.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
     
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World5</title>
-    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world5/"/>
-    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world5/</id>
-    <published>2018-03-01T08:58:07.348Z</published>
-    <updated>2018-03-02T09:46:30.591Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
-    
-    
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
-    
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world4/"/>
-    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world4/</id>
-    <published>2018-03-01T08:58:06.870Z</published>
-    <updated>2018-02-28T09:33:20.464Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
-    
-    
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
-    
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/03/01/hello-world9/"/>
-    <id>http://myblog.lancel0t.cn/2018/03/01/hello-world9/</id>
-    <published>2018-03-01T08:58:06.144Z</published>
-    <updated>2018-02-28T09:33:20.464Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
-    
-    
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
-    
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World3</title>
-    <link href="http://myblog.lancel0t.cn/2018/02/28/hello-world3/"/>
-    <id>http://myblog.lancel0t.cn/2018/02/28/hello-world3/</id>
-    <published>2018-02-28T11:14:27.743Z</published>
-    <updated>2018-03-02T09:36:27.334Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/02/28/hello-world2/"/>
-    <id>http://myblog.lancel0t.cn/2018/02/28/hello-world2/</id>
-    <published>2018-02-28T11:14:27.740Z</published>
-    <updated>2018-03-01T08:51:37.136Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/02/28/hello-world1/"/>
-    <id>http://myblog.lancel0t.cn/2018/02/28/hello-world1/</id>
-    <published>2018-02-28T11:14:27.736Z</published>
-    <updated>2018-03-01T08:51:49.299Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://myblog.lancel0t.cn/2018/02/28/hello-world/"/>
-    <id>http://myblog.lancel0t.cn/2018/02/28/hello-world/</id>
-    <published>2018-02-28T11:14:27.733Z</published>
-    <updated>2018-02-28T09:33:20.464Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/myVideo.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;br&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
-    
-    </summary>
-    
-      <category term="测试category" scheme="http://myblog.lancel0t.cn/categories/%E6%B5%8B%E8%AF%95category/"/>
-    
-    
-      <category term="测试tag1" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag1/"/>
-    
-      <category term="测试tag2" scheme="http://myblog.lancel0t.cn/tags/%E6%B5%8B%E8%AF%95tag2/"/>
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   

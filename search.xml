@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[算法题库丨RemoveDuplicates II]]></title>
+    <url>%2Farticles%2F29bb1a26-53ed-4856-b793-389da229c5e8%2F</url>
+    <content type="text"><![CDATA[描述 Follow up for “Remove Duplicates“:What if duplicates are allowed at most twice? 示例 1234Given sorted array nums = [1,1,1,2,2,3],Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It doesn&apos;t matter what you leave beyond the new length. 算法 难度：中等分析：条件参考Remove Duplicates，只不过之前元素只允许重复1次，现在改为最多可以重复2次。思路：输入的数组任然排好序的，我们定义i,从i=0开始，依次遍历数组中的每个元素：当i&lt;2时，不管怎样，元素都会满足条件，也就是说，前2条数据总是满足最多重复2次;当i&gt;2时，比较遍历当前元素数组[i]是否满足大于元素数组[i-2]：&nbsp;&nbsp;&nbsp;&nbsp;a)如果不满足，i值不变，遍历下个元素;&nbsp;&nbsp;&nbsp;&nbsp;b)如果满足，把数组[i-2]值赋值给数组[i],数组0-i的元素都为有效值,i自加1;再次循环判断，一直到数组最后一个元素. 12345678910public static int RemoveDuplicates2(int[] nums)&#123; int i = 0; foreach (var num in nums) &#123; if (i &lt; 2 || num &gt; nums[i - 2]) nums[i++] = num; &#125; return i;&#125; 复杂度 时间复杂度：O (n). 空间复杂度：O (1).]]></content>
+      <categories>
+        <category>计算机基础</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+        <tag>编程技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[算法题库系列丨目录索引]]></title>
+    <url>%2Farticles%2Fhello-world3%2F</url>
+    <content type="text"><![CDATA[介绍 文章目录 Linear List【线性表】 Array【数组】 Remove Duplicates from Sorted Array Remove Duplicates from Sorted Array II Longest Consecutive Sequence Two Sum 3Sum 3Sum Closest]]></content>
+      <categories>
+        <category>计算机基础</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+        <tag>编程技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[算法题库丨RemoveDuplicates]]></title>
+    <url>%2Farticles%2F4b71b442-724c-4b5a-b3ee-d391b710a244%2F</url>
+    <content type="text"><![CDATA[描述 Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory. 示例 12345Given nums = [1,1,2], Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.It doesn&apos;t matter what you leave beyond the new length. 算法 难度：简单分析：要求给定的排序后的数组，将其中重复的元素去除（是的每个元素只出现一次），并返回最终数组的长度。算法不要分配额外的数组空间。思路：既然输入的数组已然排好序，我们可以定义i,j两个数组下标值，开始i初始为0，j从1开始，遍历数组：如果数组[j]==数组[i],表示有重复，重复元素个数i不用累计，遍历数组下一条;如果数组[j]！=数组[i]，表示没有重复，把数组[i]值用数组[j]替代，这样数组0-i为新的数组，且不重复,i自增+1，比较下一个元素;依次遍历，直到数组[j]至最后一个元素。 1234567891011121314public static int RemoveDuplicates(int[] nums)&#123; if (nums.Length == 0) return 0; int i = 0; for (int j = 1; j &lt; nums.Length; j++) &#123; if (nums[j] != nums[i]) &#123; i++; nums[i] = nums[j]; &#125; &#125; return i + 1; &#125; 复杂度 时间复杂度：O (n). i,j最多遍历n次 空间复杂度：O (1).]]></content>
+      <categories>
+        <category>计算机基础</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+        <tag>编程技巧</tag>
+      </tags>
+  </entry>
+</search>
