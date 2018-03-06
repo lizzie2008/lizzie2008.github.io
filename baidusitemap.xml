@@ -4,8 +4,80 @@
 
     
   <url>
-    <loc>http://myblog.lancel0t.cn/articles/hello-world3/</loc>
-    <lastmod>2018-03-05T10:29:10.954Z</lastmod>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/</loc>
+    <lastmod>2018-03-06T06:34:29.944Z</lastmod>
+    <data>
+        <display>
+        <title>算法题库丨RemoveDuplicates II</title>
+        <pubTime>2017-01-01T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
+    <lastmod>2018-03-06T06:33:41.876Z</lastmod>
+    <data>
+        <display>
+        <title>算法题库丨Longest Consecutive Sequence</title>
+        <pubTime>2017-01-02T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</loc>
+    <lastmod>2018-03-06T02:59:17.613Z</lastmod>
+    <data>
+        <display>
+        <title>算法题库丨RemoveDuplicates</title>
+        <pubTime>2016-12-31T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
+    <lastmod>2018-03-06T02:47:31.857Z</lastmod>
     <data>
         <display>
         <title>算法题库系列丨目录索引</title>
@@ -15,49 +87,7 @@
          
         <tag>编程技巧</tag>
          
-         
-           
-             
-              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://myblog.lancel0t.cn/articles/29bb1a26-53ed-4856-b793-389da229c5e8/</loc>
-    <lastmod>2018-03-05T10:26:34.710Z</lastmod>
-    <data>
-        <display>
-        <title>算法题库丨RemoveDuplicates II</title>
-        <pubTime>2018-01-01T16:00:00.000Z</pubTime>
-        
-        <tag>算法</tag>
-         
-        <tag>编程技巧</tag>
-         
-         
-           
-             
-              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/</loc>
-    <lastmod>2018-03-05T10:26:08.998Z</lastmod>
-    <data>
-        <display>
-        <title>算法题库丨RemoveDuplicates</title>
-        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
-        
-        <tag>算法</tag>
-         
-        <tag>编程技巧</tag>
+        <tag>数据结构</tag>
          
          
            

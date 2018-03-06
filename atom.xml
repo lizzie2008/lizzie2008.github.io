@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myblog.lancel0t.cn/"/>
-  <updated>2018-03-05T10:26:34.710Z</updated>
+  <updated>2018-03-06T02:47:31.857Z</updated>
   <id>http://myblog.lancel0t.cn/</id>
   
   <author>
@@ -17,36 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>算法题库丨RemoveDuplicates II</title>
-    <link href="http://myblog.lancel0t.cn/articles/29bb1a26-53ed-4856-b793-389da229c5e8/"/>
-    <id>http://myblog.lancel0t.cn/articles/29bb1a26-53ed-4856-b793-389da229c5e8/</id>
-    <published>2018-01-01T16:00:00.000Z</published>
-    <updated>2018-03-05T10:26:34.710Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Follow up for “&lt;a href=&quot;http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/&quot;&gt;Remove Duplicates&lt;/a&gt;“:&lt;br&gt;What if duplicates are allowed at most twice?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given sorted array nums = [1,1,1,2,2,3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Your function should return length = 5, with the first five elements of nums &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;being 1, 1, 2, 2 and 3. It doesn&amp;apos;t matter what you leave beyond the new length.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>算法题库系列丨目录索引</title>
-    <link href="http://myblog.lancel0t.cn/articles/hello-world3/"/>
-    <id>http://myblog.lancel0t.cn/articles/hello-world3/</id>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/index/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/index/</id>
     <published>2017-12-31T16:00:00.000Z</published>
-    <updated>2018-03-05T10:29:10.954Z</updated>
+    <updated>2018-03-06T02:47:31.857Z</updated>
     
     <summary type="html">
     
@@ -62,21 +37,23 @@
     
       <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
     
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
   </entry>
   
   <entry>
-    <title>算法题库丨RemoveDuplicates</title>
-    <link href="http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/"/>
-    <id>http://myblog.lancel0t.cn/articles/4b71b442-724c-4b5a-b3ee-d391b710a244/</id>
-    <published>2017-12-31T16:00:00.000Z</published>
-    <updated>2018-03-05T10:26:08.998Z</updated>
+    <title>算法题库丨Longest Consecutive Sequence</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/Longest Consecutive Sequence/</id>
+    <published>2017-01-02T16:00:00.000Z</published>
+    <updated>2018-03-06T06:33:41.876Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.&lt;br&gt;Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Given an unsorted array of integers, find the length of the longest consecutive elements sequence.&lt;br&gt;Your algorithm should run in O(n) complexity.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given nums = [1,1,2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Your function should return length = 2, with the first two elements of nums being &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1 and 2 respectively.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;It doesn&amp;apos;t matter what you leave beyond the new length.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -86,6 +63,62 @@
       <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
       <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法题库丨RemoveDuplicates II</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates II/</id>
+    <published>2017-01-01T16:00:00.000Z</published>
+    <updated>2018-03-06T06:34:29.944Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Follow up for “&lt;a href=&quot;/posts/algorithm/RemoveDuplicates/&quot;&gt;Remove Duplicates&lt;/a&gt;“:&lt;br&gt;What if duplicates are allowed at most twice?&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法题库丨RemoveDuplicates</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</id>
+    <published>2016-12-31T16:00:00.000Z</published>
+    <updated>2018-03-06T02:59:17.613Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.&lt;br&gt;Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
