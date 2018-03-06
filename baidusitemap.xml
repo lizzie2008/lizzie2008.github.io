@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
+    <lastmod>2018-03-06T10:42:09.951Z</lastmod>
+    <data>
+        <display>
+        <title>算法题库系列丨目录索引</title>
+        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
     <lastmod>2018-03-06T08:51:05.658Z</lastmod>
     <data>
@@ -58,30 +82,6 @@
         <display>
         <title>算法题库丨RemoveDuplicates</title>
         <pubTime>2016-12-31T16:00:00.000Z</pubTime>
-        
-        <tag>算法</tag>
-         
-        <tag>编程技巧</tag>
-         
-        <tag>数据结构</tag>
-         
-         
-           
-             
-              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
-    <lastmod>2018-03-06T08:48:17.212Z</lastmod>
-    <data>
-        <display>
-        <title>算法题库系列丨目录索引</title>
-        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
         
         <tag>算法</tag>
          
