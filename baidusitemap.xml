@@ -4,8 +4,32 @@
 
     
   <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
+    <lastmod>2018-03-06T08:51:05.658Z</lastmod>
+    <data>
+        <display>
+        <title>算法题库丨Longest Consecutive Sequence</title>
+        <pubTime>2017-01-02T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/</loc>
-    <lastmod>2018-03-06T08:40:17.816Z</lastmod>
+    <lastmod>2018-03-06T08:50:51.234Z</lastmod>
     <data>
         <display>
         <title>算法题库丨RemoveDuplicates II</title>
@@ -29,7 +53,7 @@
     
   <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</loc>
-    <lastmod>2018-03-06T08:40:16.263Z</lastmod>
+    <lastmod>2018-03-06T08:50:36.613Z</lastmod>
     <data>
         <display>
         <title>算法题库丨RemoveDuplicates</title>
@@ -52,32 +76,8 @@
 
     
   <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
-    <lastmod>2018-03-06T08:40:11.532Z</lastmod>
-    <data>
-        <display>
-        <title>算法题库丨Longest Consecutive Sequence</title>
-        <pubTime>2017-01-02T16:00:00.000Z</pubTime>
-        
-        <tag>算法</tag>
-         
-        <tag>编程技巧</tag>
-         
-        <tag>数据结构</tag>
-         
-         
-           
-             
-              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
-    <lastmod>2018-03-06T02:47:31.857Z</lastmod>
+    <lastmod>2018-03-06T08:48:17.212Z</lastmod>
     <data>
         <display>
         <title>算法题库系列丨目录索引</title>

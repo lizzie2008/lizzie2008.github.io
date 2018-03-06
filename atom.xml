@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myblog.lancel0t.cn/"/>
-  <updated>2018-03-06T02:47:31.857Z</updated>
+  <updated>2018-03-06T08:48:17.212Z</updated>
   <id>http://myblog.lancel0t.cn/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/index/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/index/</id>
     <published>2017-12-31T16:00:00.000Z</published>
-    <updated>2018-03-06T02:47:31.857Z</updated>
+    <updated>2018-03-06T08:48:17.212Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/d21ee518-d67e-4a61-9a7f-cdd43df6bf89.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
 &lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;
     
     </summary>
@@ -46,13 +46,15 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Longest Consecutive Sequence/</id>
     <published>2017-01-02T16:00:00.000Z</published>
-    <updated>2018-03-06T08:40:11.532Z</updated>
+    <updated>2018-03-06T08:51:05.658Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Given an unsorted array of integers, find the length of the longest consecutive elements sequence.&lt;br&gt;Your algorithm should run in O(n) complexity.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given [100, 4, 200, 1, 3, 2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The longest consecutive elements sequence is [1, 2, 3, 4]. Return its length: 4.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -72,13 +74,15 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates II/</id>
     <published>2017-01-01T16:00:00.000Z</published>
-    <updated>2018-03-06T08:40:17.816Z</updated>
+    <updated>2018-03-06T08:50:51.234Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/e4ec8743-c64c-4c29-8381-85f8acd01b8c.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Follow up for “&lt;a href=&quot;/posts/algorithm/RemoveDuplicates/&quot;&gt;Remove Duplicates&lt;/a&gt;“:&lt;br&gt;What if duplicates are allowed at most twice?&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given sorted array nums = [1,1,1,2,2,3],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Your function should return length = 5, with the first five elements of nums &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;being 1, 1, 2, 2 and 3. It doesn&amp;apos;t matter what you leave beyond the new length.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -98,13 +102,15 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</id>
     <published>2016-12-31T16:00:00.000Z</published>
-    <updated>2018-03-06T08:40:16.263Z</updated>
+    <updated>2018-03-06T08:50:36.613Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/450f7e84-27ba-4178-8de0-a890e41cb713.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.&lt;br&gt;Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given nums = [1,1,2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Your function should return length = 2, with the first two elements of nums being &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;1 and 2 respectively.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;It doesn&amp;apos;t matter what you leave beyond the new length.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
