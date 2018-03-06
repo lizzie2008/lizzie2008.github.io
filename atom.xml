@@ -46,12 +46,11 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Longest Consecutive Sequence/</id>
     <published>2017-01-02T16:00:00.000Z</published>
-    <updated>2018-03-06T06:33:41.876Z</updated>
+    <updated>2018-03-06T08:40:11.532Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Given an unsorted array of integers, find the length of the longest consecutive elements sequence.&lt;br&gt;Your algorithm should run in O(n) complexity.&lt;/p&gt;
 &lt;/blockquote&gt;
     
@@ -73,12 +72,11 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates II/</id>
     <published>2017-01-01T16:00:00.000Z</published>
-    <updated>2018-03-06T06:34:29.944Z</updated>
+    <updated>2018-03-06T08:40:17.816Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Follow up for “&lt;a href=&quot;/posts/algorithm/RemoveDuplicates/&quot;&gt;Remove Duplicates&lt;/a&gt;“:&lt;br&gt;What if duplicates are allowed at most twice?&lt;/p&gt;
 &lt;/blockquote&gt;
     
@@ -100,12 +98,11 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</id>
     <published>2016-12-31T16:00:00.000Z</published>
-    <updated>2018-03-06T02:59:17.613Z</updated>
+    <updated>2018-03-06T08:40:16.263Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/uploads/images/43aa6878-123e-40ae-84c5-ca0e19bee1ae.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.&lt;br&gt;Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.&lt;/p&gt;
 &lt;/blockquote&gt;
     
