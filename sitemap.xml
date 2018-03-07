@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Two%20Sum/</loc>
+    
+    <lastmod>2018-03-07T09:28:31.816Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
     
-    <lastmod>2018-03-07T01:56:32.221Z</lastmod>
+    <lastmod>2018-03-07T08:58:42.334Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array%20II/</loc>
+    
+    <lastmod>2018-03-07T08:25:40.046Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
     
-    <lastmod>2018-03-06T08:51:05.658Z</lastmod>
+    <lastmod>2018-03-07T08:25:36.784Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/</loc>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array/</loc>
     
-    <lastmod>2018-03-06T08:50:51.234Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</loc>
-    
-    <lastmod>2018-03-06T08:50:36.613Z</lastmod>
+    <lastmod>2018-03-07T08:25:33.237Z</lastmod>
     
   </url>
   

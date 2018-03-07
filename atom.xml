@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myblog.lancel0t.cn/"/>
-  <updated>2018-03-07T01:56:32.221Z</updated>
+  <updated>2018-03-07T08:58:42.334Z</updated>
   <id>http://myblog.lancel0t.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>算法题库系列丨目录索引</title>
+    <title>算法题丨目录索引</title>
     <link href="http://myblog.lancel0t.cn/posts/algorithm/index/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/index/</id>
     <published>2017-12-31T16:00:00.000Z</published>
-    <updated>2018-03-07T01:56:32.221Z</updated>
+    <updated>2018-03-07T08:58:42.334Z</updated>
     
     <summary type="html">
     
@@ -42,11 +42,39 @@
   </entry>
   
   <entry>
-    <title>算法题库丨Longest Consecutive Sequence</title>
+    <title>算法题丨Two Sum</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/Two%20Sum/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/Two Sum/</id>
+    <published>2017-01-03T16:00:00.000Z</published>
+    <updated>2018-03-07T09:28:31.816Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/b4dae30a-2092-401e-b14e-85477d335250.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Given an array of integers, return indices of the two numbers such that they add up to a specific target.&lt;br&gt;You may assume that each input would have exactly one solution, and you may not use the same element twice.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt; &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given nums = [2, 7, 11, 15], target = 9,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Because nums[0] + nums[1] = 2 + 7 = 9,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;return [0, 1].&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法题丨Longest Consecutive Sequence</title>
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Longest Consecutive Sequence/</id>
     <published>2017-01-02T16:00:00.000Z</published>
-    <updated>2018-03-06T08:51:05.658Z</updated>
+    <updated>2018-03-07T08:25:36.784Z</updated>
     
     <summary type="html">
     
@@ -70,11 +98,11 @@
   </entry>
   
   <entry>
-    <title>算法题库丨RemoveDuplicates II</title>
-    <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates%20II/"/>
-    <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates II/</id>
+    <title>算法题丨Remove Duplicates from Sorted Array II</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array%20II/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/Remove Duplicates from Sorted Array II/</id>
     <published>2017-01-01T16:00:00.000Z</published>
-    <updated>2018-03-06T08:50:51.234Z</updated>
+    <updated>2018-03-07T08:25:40.046Z</updated>
     
     <summary type="html">
     
@@ -98,11 +126,11 @@
   </entry>
   
   <entry>
-    <title>算法题库丨RemoveDuplicates</title>
-    <link href="http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/"/>
-    <id>http://myblog.lancel0t.cn/posts/algorithm/RemoveDuplicates/</id>
+    <title>算法题丨Remove Duplicates from Sorted Array</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/Remove Duplicates from Sorted Array/</id>
     <published>2016-12-31T16:00:00.000Z</published>
-    <updated>2018-03-06T08:50:36.613Z</updated>
+    <updated>2018-03-07T08:25:33.237Z</updated>
     
     <summary type="html">
     
