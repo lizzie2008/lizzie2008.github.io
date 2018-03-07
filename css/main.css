@@ -1949,7 +1949,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd0a2;
+  background: #057c5c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3051,9 +3051,6 @@ hr {
 .footer-inner a {
   border: none;
 }
-.posts-expand .post {
-  margin-top: 20px;
-}
 .posts-expand .post-body ul li {
   list-style: inherit;
 }
@@ -3089,4 +3086,7 @@ hr {
 }
 .bdsharebuttonbox {
   float: right;
+}
+.post-nav-divider {
+  display: none;
 }
