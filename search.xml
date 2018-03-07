@@ -14,9 +14,22 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[算法题丨3Sum]]></title>
+    <url>%2Fposts%2Falgorithm%2F3Sum%2F</url>
+    <content type="text"><![CDATA[描述 Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.Note: The solution set must not contain duplicate triplets. 示例 1234567Given array S = [-1, 0, 1, 2, -1, -4],A solution set is:[ [-1, 0, 1], [-1, -1, 2]] 算法分析难度：中分析：要求给定的数组，找出满足条件的3个元素组合，使得3个元素之和等于零。注意，元素不能重复(值可以相同)。思路：首先，我们需要对数组进行排序，因为数组已经排序，所以只要向后查找即可，不用往前查找，比如数组变为[-4, -1, -1, 0, 1, 2];我们开始遍历排序后的数组，假设当前元素是x，判断本次遍历有解的条件可以转化为找到当前元素之后2个元素和，应该等于0-x，再使用夹逼，检查是否有解，如果有，增加到返回队列，没有的话，进入下一次的遍历，直至找到所有满足条件组合。 代码实例(C#)1234567891011121314151617181920212223242526public IList&lt;IList&lt;int&gt;&gt; ThreeSum(int[] nums)&#123; Array.Sort(nums); var res = new List&lt;IList&lt;int&gt;&gt;(); for (int i = 0; i &lt; nums.Length - 2; i++) &#123; if (i == 0 || (i &gt; 0 &amp;&amp; nums[i] != nums[i - 1])) &#123; int lo = i + 1, hi = nums.Length - 1, sum = 0 - nums[i]; while (lo &lt; hi) &#123; if (nums[lo] + nums[hi] == sum) &#123; res.Add(new List&lt;int&gt; &#123; nums[i], nums[lo], nums[hi] &#125;); while (lo &lt; hi &amp;&amp; nums[lo] == nums[lo + 1]) lo++; while (lo &lt; hi &amp;&amp; nums[hi] == nums[hi - 1]) hi--; lo++; hi--; &#125; else if (nums[lo] + nums[hi] &lt; sum) lo++; else hi--; &#125; &#125; &#125; return res;&#125; 复杂度 时间复杂度：O (n²). 空间复杂度：O (1). 附录 系列目录索引 代码实现(C#版) 相关算法]]></content>
+      <categories>
+        <category>计算机基础</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+        <tag>编程技巧</tag>
+        <tag>数据结构</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[算法题丨Two Sum]]></title>
     <url>%2Fposts%2Falgorithm%2FTwo%20Sum%2F</url>
-    <content type="text"><![CDATA[描述 Given an array of integers, return indices of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice. 示例 1234Given nums = [2, 7, 11, 15], target = 9,Because nums[0] + nums[1] = 2 + 7 = 9,return [0, 1]. 算法分析难度：低分析：要求给定的排序后的数组，将其中重复的元素去除（是的每个元素只出现一次），并返回最终数组的长度。算法不要分配额外的数组空间。思路：一般的思路，我们遍历数组元素，假设当前遍历的数组元素x，再次遍历x之后的数组元素，假设当前再次遍历的数组元素y，判断x+y是否满足target，如果满足，则返回x,y下标，否则继续遍历，直至循环结束。考虑这种算法的时间复杂度是O (n²)，不是最优的解法。跟前面几章类似，我们可以考虑用哈希表来存储数据，这里用C#提供的Hashtable来存储下标-对应值（key-value）键值对;接着遍历数组元素，如果目标值-当前元素值存在当前的Hashtable中，则表明找到了满足条件的2个元素，返回对应的下标;如果Hashtable没有满足的目标值-当前元素值的元素，将当前元素添加到Hashtable，进入下一轮遍历，直到满足上一条的条件。 代码实例(C#)1234567891011121314public int[] TwoSum(int[] nums, int target)&#123; var map = new Hashtable(); ; for (int i = 0; i &lt; nums.Length; i++) &#123; int complement = target - nums[i]; if (map.ContainsKey(complement)) &#123; return new int[] &#123; (int)map[complement], i &#125;; &#125; map.Add(nums[i], i); &#125; return null;&#125; 复杂度 时间复杂度：O (n). 空间复杂度：O (1). 附录 系列目录索引 代码实现(C#版) 相关算法]]></content>
+    <content type="text"><![CDATA[描述 Given an array of integers, return indices of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice. 示例 1234Given nums = [2, 7, 11, 15], target = 9,Because nums[0] + nums[1] = 2 + 7 = 9,return [0, 1]. 算法分析难度：低分析：要求给定的数组，查找其中2个元素，满足这2个元素的相加等于给定目标target的值。思路：一般的思路，我们遍历数组元素，假设当前遍历的数组元素x，再次遍历x之后的数组元素，假设当前再次遍历的数组元素y，判断x+y是否满足target，如果满足，则返回x,y下标，否则继续遍历，直至循环结束。考虑这种算法的时间复杂度是O (n²)，不是最优的解法。跟前面几章类似，我们可以考虑用哈希表来存储数据，这里用C#提供的Hashtable来存储下标-对应值（key-value）键值对;接着遍历数组元素，如果目标值-当前元素值存在当前的Hashtable中，则表明找到了满足条件的2个元素，返回对应的下标;如果Hashtable没有满足的目标值-当前元素值的元素，将当前元素添加到Hashtable，进入下一轮遍历，直到满足上一条的条件。 代码实例(C#)1234567891011121314public int[] TwoSum(int[] nums, int target)&#123; var map = new Hashtable(); ; for (int i = 0; i &lt; nums.Length; i++) &#123; int complement = target - nums[i]; if (map.ContainsKey(complement)) &#123; return new int[] &#123; (int)map[complement], i &#125;; &#125; map.Add(nums[i], i); &#125; return null;&#125; 复杂度 时间复杂度：O (n). 空间复杂度：O (1). 附录 系列目录索引 代码实现(C#版) 相关算法]]></content>
       <categories>
         <category>计算机基础</category>
       </categories>
