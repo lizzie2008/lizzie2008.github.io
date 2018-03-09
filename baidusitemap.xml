@@ -4,8 +4,56 @@
 
     
   <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/4Sum/</loc>
+    <lastmod>2018-03-09T06:09:59.313Z</lastmod>
+    <data>
+        <display>
+        <title>算法题丨4Sum</title>
+        <pubTime>2017-01-06T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/3Sum%20Closest/</loc>
+    <lastmod>2018-03-09T06:01:53.289Z</lastmod>
+    <data>
+        <display>
+        <title>算法题丨3Sum Closest</title>
+        <pubTime>2017-01-05T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/3Sum/</loc>
-    <lastmod>2018-03-07T10:55:55.110Z</lastmod>
+    <lastmod>2018-03-09T06:01:28.912Z</lastmod>
     <data>
         <display>
         <title>算法题丨3Sum</title>
@@ -28,32 +76,8 @@
 
     
   <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
-    <lastmod>2018-03-07T10:50:00.776Z</lastmod>
-    <data>
-        <display>
-        <title>算法题丨目录索引</title>
-        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
-        
-        <tag>算法</tag>
-         
-        <tag>编程技巧</tag>
-         
-        <tag>数据结构</tag>
-         
-         
-           
-             
-              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/Two%20Sum/</loc>
-    <lastmod>2018-03-07T09:44:28.035Z</lastmod>
+    <lastmod>2018-03-09T06:01:15.699Z</lastmod>
     <data>
         <display>
         <title>算法题丨Two Sum</title>
@@ -76,8 +100,32 @@
 
     
   <url>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/index/</loc>
+    <lastmod>2018-03-09T02:39:26.557Z</lastmod>
+    <data>
+        <display>
+        <title>算法题丨目录索引</title>
+        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>编程技巧</tag>
+         
+        <tag>数据结构</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机基础" url="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array%20II/</loc>
-    <lastmod>2018-03-07T08:25:40.046Z</lastmod>
+    <lastmod>2018-03-08T03:31:30.612Z</lastmod>
     <data>
         <display>
         <title>算法题丨Remove Duplicates from Sorted Array II</title>
@@ -100,12 +148,12 @@
 
     
   <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
-    <lastmod>2018-03-07T08:25:36.784Z</lastmod>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array/</loc>
+    <lastmod>2018-03-08T03:14:55.886Z</lastmod>
     <data>
         <display>
-        <title>算法题丨Longest Consecutive Sequence</title>
-        <pubTime>2017-01-02T16:00:00.000Z</pubTime>
+        <title>算法题丨Remove Duplicates from Sorted Array</title>
+        <pubTime>2016-12-31T16:00:00.000Z</pubTime>
         
         <tag>算法</tag>
          
@@ -124,12 +172,12 @@
 
     
   <url>
-    <loc>http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array/</loc>
-    <lastmod>2018-03-07T08:25:33.237Z</lastmod>
+    <loc>http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/</loc>
+    <lastmod>2018-03-08T02:16:57.815Z</lastmod>
     <data>
         <display>
-        <title>算法题丨Remove Duplicates from Sorted Array</title>
-        <pubTime>2016-12-31T16:00:00.000Z</pubTime>
+        <title>算法题丨Longest Consecutive Sequence</title>
+        <pubTime>2017-01-02T16:00:00.000Z</pubTime>
         
         <tag>算法</tag>
          

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myblog.lancel0t.cn/"/>
-  <updated>2018-03-07T10:50:00.776Z</updated>
+  <updated>2018-03-09T02:39:26.557Z</updated>
   <id>http://myblog.lancel0t.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/index/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/index/</id>
     <published>2017-12-31T16:00:00.000Z</published>
-    <updated>2018-03-07T10:50:00.776Z</updated>
+    <updated>2018-03-09T02:39:26.557Z</updated>
     
     <summary type="html">
     
@@ -42,11 +42,67 @@
   </entry>
   
   <entry>
+    <title>算法题丨4Sum</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/4Sum/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/4Sum/</id>
+    <published>2017-01-06T16:00:00.000Z</published>
+    <updated>2018-03-09T06:09:59.313Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/86f0a3c8-88b2-44bb-9d80-45252c26b617.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Given an array S of n integers, are there elements a, b, c, and d in S such that a + b + c + d = target?&lt;br&gt;Find all unique quadruplets in the array which gives the sum of target.&lt;br&gt;Note: The solution set must not contain duplicate quadruplets.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given array S = [1, 0, -1, 0, -2, 2], and target = 0.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;A solution set is:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [-1,  0, 0, 1],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [-2, -1, 1, 2],&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  [-2,  0, 0, 2]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法题丨3Sum Closest</title>
+    <link href="http://myblog.lancel0t.cn/posts/algorithm/3Sum%20Closest/"/>
+    <id>http://myblog.lancel0t.cn/posts/algorithm/3Sum Closest/</id>
+    <published>2017-01-05T16:00:00.000Z</published>
+    <updated>2018-03-09T06:01:53.289Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/uploads/images/f47f6f4c-c7c9-4e1c-af4e-2f8616947e97.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Given an array S of n integers, find three integers in S such that the sum is closest to a given number, target.&lt;br&gt;Return the sum of the three integers. You may assume that each input would have exactly one solution.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot; class=&quot;headerlink&quot; title=&quot;示例&quot;&gt;&lt;/a&gt;示例&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Given array S = &amp;#123;-1 2 1 -4&amp;#125;, and target = 1.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="计算机基础" scheme="http://myblog.lancel0t.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="算法" scheme="http://myblog.lancel0t.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="编程技巧" scheme="http://myblog.lancel0t.cn/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="数据结构" scheme="http://myblog.lancel0t.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>算法题丨3Sum</title>
     <link href="http://myblog.lancel0t.cn/posts/algorithm/3Sum/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/3Sum/</id>
     <published>2017-01-04T16:00:00.000Z</published>
-    <updated>2018-03-07T10:55:55.110Z</updated>
+    <updated>2018-03-09T06:01:28.912Z</updated>
     
     <summary type="html">
     
@@ -74,7 +130,7 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Two%20Sum/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Two Sum/</id>
     <published>2017-01-03T16:00:00.000Z</published>
-    <updated>2018-03-07T09:44:28.035Z</updated>
+    <updated>2018-03-09T06:01:15.699Z</updated>
     
     <summary type="html">
     
@@ -102,7 +158,7 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Longest%20Consecutive%20Sequence/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Longest Consecutive Sequence/</id>
     <published>2017-01-02T16:00:00.000Z</published>
-    <updated>2018-03-07T08:25:36.784Z</updated>
+    <updated>2018-03-08T02:16:57.815Z</updated>
     
     <summary type="html">
     
@@ -130,7 +186,7 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array%20II/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Remove Duplicates from Sorted Array II/</id>
     <published>2017-01-01T16:00:00.000Z</published>
-    <updated>2018-03-07T08:25:40.046Z</updated>
+    <updated>2018-03-08T03:31:30.612Z</updated>
     
     <summary type="html">
     
@@ -158,7 +214,7 @@
     <link href="http://myblog.lancel0t.cn/posts/algorithm/Remove%20Duplicates%20from%20Sorted%20Array/"/>
     <id>http://myblog.lancel0t.cn/posts/algorithm/Remove Duplicates from Sorted Array/</id>
     <published>2016-12-31T16:00:00.000Z</published>
-    <updated>2018-03-07T08:25:33.237Z</updated>
+    <updated>2018-03-08T03:14:55.886Z</updated>
     
     <summary type="html">
     
